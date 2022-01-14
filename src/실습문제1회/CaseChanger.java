@@ -38,6 +38,6 @@ public class CaseChanger {
 		if (found == 0) {
 			System.out.println("영문자가 아닙니다.");
 		}
-
+//주석
 	}
 }
